@@ -11,7 +11,7 @@ function Projects() {
           {projectsData.map((project, index) => (
             <ProjectDetailsContainer
               key={index}
-              project_img={project.project_img}
+              project_img='/assets/project-1.png'
               project_title={project.project_title}
               github_href={project.github_href}
               live_href={project.live_href}

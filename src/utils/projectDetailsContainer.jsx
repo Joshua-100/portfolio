@@ -5,6 +5,13 @@ const ProjectDetailsContainer = ({ project_img, project_title, github_href, live
         <img
           src={project_img}
           alt={project_title}
+                  style={{
+          width: "300px",
+          height: "auto",
+          border: "2px solid red",
+          display: "block",
+          marginBottom: "10px",
+        }}
           className="project-img"
         />
       </div>
@@ -23,6 +30,7 @@ const ProjectDetailsContainer = ({ project_img, project_title, github_href, live
           Live Demo
         </button>
       </div>
+      {console.log("Image Path:", project_img)}
     </div>
   );
 };

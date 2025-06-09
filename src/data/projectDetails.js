@@ -12,10 +12,10 @@ const projectsData = [
     live_href: "https://joshua-100.github.io/agro-ui",
   },
   {
-    project_img: "/portfolio/assets/project-3.png",
-    project_title: "Local Harvest Hub",
-    github_href: "https://github.com/joshua-100/local-harvest-hub",
-    live_href: "https://joshua-100.github.io/harvest/",
+    project_img: "/portfolio/assets/smart_sock.png",
+    project_title: "Smart Sock - Sleepwalking Detection System",
+    github_href: "https://github.com/Joshua-100/smartSock",
+    live_href: "",
   },
 ];
 

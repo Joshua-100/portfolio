@@ -6,7 +6,7 @@ const projectsData = [
     live_href: "https://joshua-100.github.io/portfolio/",
   },
   {
-    project_img: "/portfolio/assets/agric_UI.png",
+    project_img: "/portfolio/assets/agri_UI.png",
     project_title: "Smart Agriculture UI",
     github_href: "",
     live_href: "",

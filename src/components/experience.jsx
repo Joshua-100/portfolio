@@ -74,7 +74,7 @@ function Experience (){
             </div>
           </div>
           <div className="details-container">
-            <h2 className="experience-sub-title">Frontend Development</h2>
+            <h2 className="experience-sub-title">Backend Development</h2>
             <div className="article-container">
               <article>
                 <img

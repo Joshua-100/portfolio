@@ -21,7 +21,7 @@ function Projects() {
       </div>
 
       <img
-        src="./assets/arrow.png"
+        src="/portfolio/assets/arrow.png"
         alt="Arrow icon"
         className="icon arrow"
         onClick={() => (window.location.href = "#contact")}

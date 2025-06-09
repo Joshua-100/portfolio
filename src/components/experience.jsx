@@ -17,7 +17,7 @@ function Experience (){
                 />
                 <div>
                   <h3>HTML</h3>
-                  <p>Experienced</p>
+                  <p>Intermediate</p>
                 </div>
               </article>
               <article>
@@ -28,7 +28,7 @@ function Experience (){
                 />
                 <div>
                   <h3>CSS</h3>
-                  <p>Experienced</p>
+                  <p>Intermediate</p>
                 </div>
               </article>
               <article>
@@ -37,10 +37,6 @@ function Experience (){
                   alt="Experience icon"
                   className="icon"
                 />
-                <div>
-                  <h3>SASS</h3>
-                  <p>Intermediate</p>
-                </div>
               </article>
               <article>
                 <img
@@ -137,17 +133,6 @@ function Experience (){
       />
       <div>
         <h3>Arduino</h3>
-        <p>Experienced</p>
-      </div>
-    </article>
-    <article>
-      <img
-        src="./assets/checkmark.png"
-        alt="Experience icon"
-        className="icon"
-      />
-      <div>
-        <h3>Raspberry Pi</h3>
         <p>Intermediate</p>
       </div>
     </article>
@@ -158,8 +143,19 @@ function Experience (){
         className="icon"
       />
       <div>
+        <h3>Raspberry Pi</h3>
+        <p>Basic</p>
+      </div>
+    </article>
+    <article>
+      <img
+        src="./assets/checkmark.png"
+        alt="Experience icon"
+        className="icon"
+      />
+      <div>
         <h3>IoT Sensors</h3>
-        <p>Experienced</p>
+        <p>Basic-Intermediate</p>
       </div>
     </article>
     <article>
